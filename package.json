@@ -1,0 +1,12 @@
+{
+  "id": "ptt",
+  "name": "PTT",
+  "version": "0.1",
+  "description": "PTT intergration of Franz",
+  "main": "index.js",
+  "author": "YWJamesLin <ywjameslin.ga>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://term.ptt.cc"
+  }
+}
