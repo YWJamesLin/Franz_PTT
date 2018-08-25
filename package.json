@@ -1,7 +1,7 @@
 {
   "id": "ptt",
   "name": "PTT",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "PTT intergration of Franz",
   "main": "index.js",
   "author": "YWJamesLin <ywjameslin.ga>",
